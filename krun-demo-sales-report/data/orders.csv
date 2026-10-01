@@ -1,0 +1,13 @@
+order_id,order_date,product,quantity,unit_price,status
+1001,2026-09-01,Notebook,2,12.50,paid
+1002,2026-09-01,Pen,10,1.20,paid
+1003,2026-09-01,Mouse,1,25.00,paid
+1004,2026-09-02,Notebook,1,12.50,paid
+1005,2026-09-02,Pen,4,1.20,refunded
+1006,2026-09-02,Keyboard,1,45.00,paid
+1007,2026-09-03,Mouse,2,25.00,paid
+1008,2026-09-03,Pen,5,1.20,paid
+1009,2026-09-03,Keyboard,1,45.00,cancelled
+1010,2026-09-03,Notebook,3,12.50,paid
+1011,invalid-date,Pen,2,1.20,paid
+1012,2026-09-03,Mouse,-1,25.00,paid

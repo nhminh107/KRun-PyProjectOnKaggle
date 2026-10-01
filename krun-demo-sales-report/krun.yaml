@@ -1,0 +1,11 @@
+project:
+  name: sales-report-demo
+runtime:
+  accelerator: cpu
+  internet: false
+entrypoint:
+  file: main.py
+dependencies:
+  requirements: null
+outputs:
+  - outputs/
